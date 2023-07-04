@@ -1,6 +1,6 @@
 {
   "name": "abbu_random_number_generator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Random Number generator",
   "main": "index.js",
   "type": "module",
